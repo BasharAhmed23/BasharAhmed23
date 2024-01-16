@@ -1,4 +1,4 @@
-<h1>Hi, I'm Bashar! <br/><a href="https://github.com/joshmadakor1">Passionate Java/Spring boot Develop</a> <a href="https://www.linkedin.com/in/joshmadakor/"></a> <a href="https://www.youtube.com/c/joshmadakor"></a></h1>
+<h1>Hi, I'm Bashar! <br/><a href="https://github.com/joshmadakor1">Passionate Java/Spring boot Developer</a> <a href="https://www.linkedin.com/in/joshmadakor/"></a> <a href="https://www.youtube.com/c/joshmadakor"></a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
@@ -16,4 +16,8 @@
 - Database Management systems(SQl, MongoDB)
 - Hibernate
 - Spring data JPA
-  
+- 
+  <h2>Languages</h2>
+  -Arabic(native)
+  -English(Advanced)
+  -Germany (Coversational)
