@@ -1,16 +1,18 @@
-### Hi there 👋
+<h1>Hi, I'm Bashar! <br/><a href="https://github.com/joshmadakor1">Passionate Java/Spring boot Develop</a> <a href="https://www.linkedin.com/in/joshmadakor/"></a> <a href="https://www.youtube.com/c/joshmadakor"></a></h1>
 
-<!--
-**BasharAhmed23/BasharAhmed23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻 Software Development Projects:</h2>
 
-Here are some ideas to get you started:
+- <b>Spring boot Enterprise Bus Reservation Application</b>
+  - [Praciting spring boot,SQL,spring dataJPA , Hibernate]([https://github.com/joshmadakor1/Algorithms-Practice](https://github.com/BasharAhmed23/Reservation-Application/tree/master))
+- <b>Employee Management system</b>
+  - [Practicing Spring REST CRUD applications with Spring security]([https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964](https://github.com/BasharAhmed23/Employee-management-system/tree/master)) <b><i></b></i>
+- <b>Movie Application</b>
+ 
+<h2>Skills</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-Programming Languages (Java , c++)
+- Spring Framework
+- Database Management systems(SQl, MongoDB)
+- Hibernate
+- Spring data JPA
+  
