@@ -6,7 +6,7 @@
   - [Praciting spring boot,SQL,spring dataJPA , Hibernate](https://github.com/BasharAhmed23/Reservation-Application/tree/master)
 - <b>Employee Management system</b>
   - [Practicing Spring REST CRUD applications with Spring security](https://github.com/BasharAhmed23/Employee-management-system/tree/master) <b><i></b></i>
-- <b>Movie Application</b>
+- <b>Movie Application </b>
 [Movie Application Practicing spring boot with MongoDB database](https://github.com/BasharAhmed23/Movie-Application/tree/master)
  
 <h2>Skills</h2>
