@@ -18,6 +18,6 @@
 - Spring data JPA
 - 
   <h2>Languages</h2>
-  -Arabic(native)
+  -Arabic(Native)
   -English(Advanced)
   -Germany (Coversational)
